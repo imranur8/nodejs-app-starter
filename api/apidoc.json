@@ -1,0 +1,6 @@
+{
+  "name": "nodejs app starter",
+  "version": "1.0.0",
+  "description": "nodejs app starter with express + typescript + typeORM + React + Redux + Ant design.",
+  "url": "http://locahost:3400/"
+}

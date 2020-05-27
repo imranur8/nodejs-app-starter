@@ -1,0 +1,18 @@
+.logo {
+  color:rgba(0, 0, 0, 0.85);
+  width: 200px;
+  height: 31px;
+  margin: 18px 18px 0px 0px;
+  float: left;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.loading {
+  text-align: center;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  margin: 20px 0;
+  margin-top: 300px;
+}
