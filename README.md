@@ -1,5 +1,5 @@
 # nodejs app starter
-nodejs app starter with express + typescript + typeORM + React + Redux + Ant design
+nodejs app starter with express + typescript + typeORM + React + Redux + Ant design.
 
 
 ## REST API
