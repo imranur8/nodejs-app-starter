@@ -21,7 +21,7 @@ Create your own local typeORM config ```ormconfig.json``` file in the ```api``` 
 
 
 
-Run in development mode
+Run in development mode.
 ```
 npm run build
 ```
